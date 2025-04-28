@@ -1,0 +1,1 @@
+Automated university timetable generator that avoids conflicts between professors, rooms, and student groups.
